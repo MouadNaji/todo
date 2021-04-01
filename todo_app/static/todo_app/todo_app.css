@@ -1,0 +1,42 @@
+h1 {
+   font-weight: 700;
+   padding 1rem;
+   color:white
+}
+p{color: white}
+
+form{color: white;
+font-weight: 400;}
+
+body{
+    background-color: black;
+
+
+
+
+}
+ul{color: white}
+
+button{
+	border-radius: 2rem;
+	background: purple;
+	color: white;
+
+
+}
+input[type=text]{
+	width: 12rem;
+    height: 1.1rem;
+    background: purple;
+    border-radius: 2rem;
+
+}
+
+input[type=checkbox]{
+	color: purple;
+	background-color: purple;
+
+
+}
+
+
